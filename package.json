@@ -1,0 +1,26 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JossPerezT/express_basic.git"
+  },
+  "author": "jocelynperez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JossPerezT/express_basic/issues"
+  },
+  "homepage": "https://github.com/JossPerezT/express_basic#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
