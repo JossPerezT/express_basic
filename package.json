@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/JossPerezT/express_basic#readme",
   "devDependencies": {
-    "jest": "^28.0.3"
+    "jest": "^28.0.3",
+    "supertest": "^6.2.3"
   },
   "dependencies": {
     "express": "^4.18.1"
